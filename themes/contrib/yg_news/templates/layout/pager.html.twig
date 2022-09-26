@@ -1,0 +1,22 @@
+<div class="news-pagination">
+{% if items %}
+      {# Print previous item if we are not on the first page. #}
+      {% if items.previous %}
+          <a href="{{ items.previous.href }}" class="btn_mange_pagging" title="{{ 'Go to previous page'|t }}" rel="prev" {{ items.previous.attributes|without('href', 'title', 'rel') }}><i class="fa fa-long-arrow-left"></i>&nbsp;&nbsp; Previous</a>
+      {% endif %}
+      {# Now generate the actual pager piece. #}
+      {% for key, item in items.pages %}
+          {% if current == key %}
+              <a href="{{ item.href }}" class="btn_pagging">{{- key -}}</a>
+          {% else %}
+              <a href="{{ item.href }}" class="btn_pagging">{{- key -}}</a>
+          {% endif %}
+       {% endfor %}
+      {# Print next item if we are not on the last page. #}
+      {% if items.next %}
+        <a href="{{ items.next.href }}" class="btn_mange_pagging">Next <i class="fa fa-long-arrow-right"></i>&nbsp;&nbsp; </a>
+      {% endif %}
+     
+{% endif %}
+
+</div>

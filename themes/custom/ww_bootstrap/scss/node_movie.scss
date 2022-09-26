@@ -1,0 +1,36 @@
+/* Node Movie */
+.node--type-movie {
+  article {
+    .field--name-field-movie-cast{
+      .field__label {
+        font-size: 2em;
+        font-weight: bold;
+        border-bottom: 5px solid ;
+        text-transform: uppercase;
+      }
+
+      .field__items {
+        display: flex;
+
+        .field__item {
+          flex: 1 1 0;
+          flex-direction: column;
+
+          article {
+            text-align: center;
+
+            a {
+              display: block;
+            }
+
+            h2 {
+              &.node__title {
+                text-decoration: none;
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

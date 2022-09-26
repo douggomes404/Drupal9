@@ -1,0 +1,668 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitecontent>
+  <menu>
+    <menu_item>
+      <menu_item_title>Home</menu_item_title>
+      <menu_item_path>home</menu_item_path>
+      <menu_item_slug>home</menu_item_slug>
+      <menu_item_status>1</menu_item_status>
+    </menu_item>
+    <menu_item>
+      <menu_item_title>About Us</menu_item_title>
+      <menu_item_path>about us</menu_item_path>
+      <menu_item_slug>about-us</menu_item_slug>
+      <menu_item_status>1</menu_item_status>
+    </menu_item>
+    <menu_item>
+      <menu_item_title>Artist</menu_item_title>
+      <menu_item_path>artist</menu_item_path>
+      <menu_item_slug>artist</menu_item_slug>
+      <menu_item_status>1</menu_item_status>
+    </menu_item>
+    <menu_item>
+      <menu_item_title>Music</menu_item_title>
+      <menu_item_path>music</menu_item_path>
+      <menu_item_slug>music</menu_item_slug>
+      <menu_item_status>1</menu_item_status>
+    </menu_item>
+    <menu_item>
+      <menu_item_title>Blog-wp</menu_item_title>
+      <menu_item_path>blog</menu_item_path>
+      <menu_item_slug>blog-wp</menu_item_slug>
+      <menu_item_status>1</menu_item_status>
+    </menu_item>
+  </menu>
+  <pages>
+    <content>
+      <meta_ID>tt_page1</meta_ID>
+      <page_title>Home</page_title>
+      <alias>home</alias>
+      <page_name>Home</page_name>
+      <page_header_id>home</page_header_id>
+      <state>1</state>
+      <featured>1</featured>
+      <created>07/13/2021 00:00:00</created>
+      <created_by_alias>SuperUser</created_by_alias>
+      <page_title_visibility>false</page_title_visibility>
+      <introtext><![CDATA[<div class="ttr_home_html_row0 row" >
+<div class="post_column col-xl-6 col-lg-6 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column00">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center; display:block; line-height:2.07em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:351px;max-width:526px;margin:0px 0px 20px 0px;" src="~base_path~sites/default/files/inline-images/thomaslebPD4UmqC44unsplash526x351.jpg" alt="ghf" /></span></span><span style="font-family:'Open Sans','Arial';color:rgba(105,105,105,1);">Motivation is the reason for people's actions, desires, and needs. Motivation is also one's direction to behavior, or what causes a person to want to repeat a behavior. An individual is not motivated by another individual.</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-6 col-lg-6 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column01">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center; display:block; line-height:2.07em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:351px;max-width:526px;margin:0px 0px 20px 0px;" src="~base_path~sites/default/files/inline-images/alexeyruban73o_FzZ5xwunsplash526x3511.jpg" alt="fgc" /></span></span><span style="font-family:'Open Sans','Arial';color:rgba(105,105,105,1);">Fashion is a popular style, especially in clothing, footwear, lifestyle products, accessories, makeup, hairstyle and body. Fashion is a distinctive and often constant trend in the style in which a person dresses.</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_home_html_row1 row" >
+<div class="post_column col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column10">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="line-height:4.94em;"><span style="font-family:'PT Serif','Arial';font-weight:700;font-size:3.429em;color:rgba(0,0,0,1);">WEEKLY EVENTS</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-6 col-lg-6 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column11">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:1440px;max-width:1920px;margin:0px 0px 0px 0px;" src="~base_path~sites/default/files/inline-images/image42copyrightmin.jpg" alt="hj" /></span></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-6 col-lg-6 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column12">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="line-height:2.1em;"><span style="font-family:'Syne','Arial';font-size:1.429em;color:rgba(0,0,0,1);">Star Cinems</span></p><p style="line-height:2.1em;"><span style="font-family:'Syne','Arial';font-size:1.429em;color:rgba(0,0,0,1);">Free</span></p><p style="line-height:2.71em;"><span style="font-family:'Syne','Arial';font-size:1.857em;color:rgba(0,0,0,1);">Lloyd — Kiana — Mitchell K.</span></p><p style="line-height:2.91em;"><span style="font-family:'Syne','Arial';font-size:2em;color:rgba(0,0,0,1);">Featuring live DJ sets from Lloyd, Kiana &amp; Mitchell K. Free entry</span></p><p style="margin:20px 0px 5px 0px;line-height:2.91em;"><span><a href="https://templatetoaster.com" target="_self" class="btn btn-md btn-default">ABOUT SHOW</a></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_home_html_row2 row" >
+<div class="post_column col-xl-4 col-lg-4 col-md-4 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column20">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><h2 style="margin:0px 0px 10px 0px;text-align:Center; display:block; line-height:1.22em;"><span style="font-family:'Syne','Arial';font-size:0.833em;color:rgba(0,0,0,1);">Use the Contact Form</span></h2><h2 style="text-align:Center; display:block; line-height:0.79em;"><span style="font-family:'Syne','Arial';font-size:0.533em;color:rgba(149,149,149,1);">Lorem ipsum dolor sit amet, test link adipiscing elit.Nullam dignissim convallis est.Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui.Nam sit amet sem. </span></h2></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-4 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column21">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 10px 0px;text-align:Center; display:block; line-height:2.61em;"><span style="font-family:'Syne','Arial';font-size:1.786em;color:rgba(0,0,0,1);">Get Reply Within 24 b.h.</span></p><p style="margin:0px 0px 5px 0px;text-align:Center; display:block; line-height:1.69em;"><span style="font-family:'Syne','Arial';font-size:1.143em;color:rgba(149,149,149,1);">Lorem ipsum dolor sit amet, test link adipiscing elit.Nullam dignissim convallis est.Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui.Nam sit amet sem. </span></p><br /></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-4 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column22">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 10px 0px;text-align:Center; display:block; line-height:2.61em;"><span style="font-family:'Syne','Arial';font-size:1.786em;color:rgba(0,0,0,1);">Enjoy! </span></p><p style="text-align:Center; display:block; line-height:1.69em;"><span style="font-family:'Syne','Arial';font-size:1.143em;color:rgba(149,149,149,1);">Lorem ipsum dolor sit amet, test link adipiscing elit.Nullam dignissim convallis est.Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui.Nam sit amet sem. </span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_home_html_row3 row" >
+<div class="post_column col-xl-4 col-lg-4 col-md-4 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column30">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="line-height:1.8em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:512px;max-width:700px;margin:0px 0px 20px 0px;" src="~base_path~sites/default/files/inline-images/post9copyright700x512.jpg" alt="rdsa" /></span></span><span style="font-size:1.214em;color:rgba(149,149,149,1);">MONDAY 2:00 PM - 4:00 PM</span></p><p style="line-height:2.4em;"><span style="font-family:'Questrial','Arial';font-size:1.643em;color:rgba(0,0,0,1);">Morning Show With Amily</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-4 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column31">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="line-height:1.8em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:512px;max-width:700px;margin:0px 0px 20px 0px;" src="~base_path~sites/default/files/inline-images/service1copyright700x512.jpg" alt="jhg" /></span></span><span style="font-size:1.214em;color:rgba(149,149,149,1);">FRIDAY 1:00 PM - 2:00 PM</span></p><p style="line-height:2.4em;"><span style="font-family:'Questrial','Arial';font-size:1.643em;color:rgba(0,0,0,1);">Art Of Gossip</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-4 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column32">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="line-height:1.8em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:512px;max-width:700px;margin:0px 0px 20px 0px;" src="~base_path~sites/default/files/inline-images/post8copyright700x512.jpg" alt="vc" /></span></span><span style="font-size:1.214em;color:rgba(149,149,149,1);">FRIDAY 11:00 AM - 12PM</span></p><p style="line-height:2.4em;"><span style="font-family:'Questrial','Arial';font-size:1.643em;color:rgba(0,0,0,1);">Classy Genration </span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_home_html_row4 row" >
+<div class="post_column col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column40">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="line-height:4.94em;"><span style="font-family:'PT Serif','Arial Black';font-weight:700;font-size:3.429em;color:rgba(0,0,0,1);">Weekly </span><span style="font-family:'PT Serif','Arial Black';font-weight:700;font-size:3.429em;color:rgba(0,0,0,1);">Show Time</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_home_html_row5 row" >
+<div class="post_column col-xl-4 col-lg-4 col-md-4 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column50">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="line-height:1.8em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:251px;max-width:334px;margin:0px 0px 20px 0px;" src="~base_path~sites/default/files/inline-images/thomasleoz1GQ1tpwunsplash334x251.jpg" alt="yg" /></span></span><span style="font-size:1.214em;color:rgba(149,149,149,1);">MONDAY 8:00 AM - 10:00 AM</span></p><p style="line-height:2.4em;"><span style="font-family:'Questrial','Arial';font-size:1.643em;color:rgba(0,0,0,1);">Good Morning Show</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-4 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column51">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="line-height:1.8em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:251px;max-width:334px;margin:0px 0px 20px 0px;" src="~base_path~sites/default/files/inline-images/cowomenQziaoZM0M44unsplash334x251.jpg" alt="g" /></span></span><span style="font-size:1.214em;color:rgba(149,149,149,1);">TUESDAY 11:00 AM - 1:00 PM</span></p><p style="line-height:2.4em;"><span style="font-family:'Questrial','Arial';font-size:1.643em;color:rgba(0,0,0,1);">Talks with Ellen</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-4 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column52">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="line-height:1.8em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:251px;max-width:334px;margin:0px 0px 20px 0px;" src="~base_path~sites/default/files/inline-images/leecampbellGI6L2pkiZgQunsplash334x251.jpg" alt="fg" /></span></span><span style="font-size:1.214em;color:rgba(149,149,149,1);">TUESDAY 10:00 AM - 4:00 PM</span></p><p style="line-height:2.4em;"><span style="font-family:'Questrial','Arial';font-size:1.643em;color:rgba(0,0,0,1);">Morning Show with Amily White</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_home_html_row6 row" >
+<div class="post_column col-xl-8 col-lg-8 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column60">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><br /></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column61">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="line-height:1.8em;"><span style="font-family:'Syne','Arial';font-weight:700;font-size:1.214em;color:rgba(0,0,0,1);">ABOUT THE STUDIO</span></p><p style="line-height:3.62em;"><span style="font-family:'Syne','Arial';font-weight:700;font-size:2.5em;color:rgba(0,0,0,1);">Join the Channel</span></p><p style="margin:5px 0px 20px 0px;line-height:1.69em;"><span style="font-family:'Syne','Arial';font-weight:1;font-size:1.143em;color:rgba(149,149,149,1);">Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam.Stet clita kasd gubergren, no sea takimata sanctus est.</span></p><p style="line-height:3.62em;"><span style="font-family:'Syne','Arial';font-weight:700;font-size:2.5em;color:rgba(96,8,41,1);">602</span><span style="font-family:'Syne','Arial';font-weight:700;font-size:2.5em;color:rgba(96,8,41,1);"> +</span></p><p style="line-height:3.11em;"><span style="font-family:'Syne','Arial';font-weight:700;font-size:2.143em;color:rgba(52,52,52,1);">Videos</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_home_html_row7 row" >
+<div class="post_column col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column70">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="line-height:4.94em;"><span style="font-family:'PT Serif','Arial Black';font-weight:700;font-size:3.429em;color:rgba(0,0,0,1);">Featured Podcasts</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_home_html_row8 row" >
+<div class="post_column col-xl-3 col-lg-3 col-md-3 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column80">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center; display:block; line-height:2.4em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:360px;max-width:360px;margin:0px 0px 20px 0px;" src="~base_path~sites/default/files/inline-images/banner2.jpg" alt="DFGH" /></span></span><span style="font-family:'Questrial','Arial';font-size:1.643em;color:rgba(225,225,225,1);">Pdcst 15 – Mixcloud</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-3 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column81">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center; display:block; line-height:2.4em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:360px;max-width:360px;margin:0px 0px 20px 0px;" src="~base_path~sites/default/files/inline-images/banner3.jpg" alt="FGHJ" /></span></span><span style="font-family:'Questrial','Arial';font-size:1.643em;color:rgba(225,225,225,1);">Pdcst 14 – Mp3</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-3 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column82">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center; display:block; line-height:2.4em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:360px;max-width:360px;margin:0px 0px 20px 0px;" src="~base_path~sites/default/files/inline-images/banner4.jpg" alt="HGF" /></span></span><span style="font-family:'Questrial','Arial';font-size:1.643em;color:rgba(225,225,225,1);">Pdcst 13 – Soundcloud</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-3 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column83">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center; display:block; line-height:2.4em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:360px;max-width:360px;margin:0px 0px 20px 0px;" src="~base_path~sites/default/files/inline-images/banner5.jpg" alt="FGH" /></span></span><span style="font-family:'Questrial','Arial';font-size:1.643em;color:rgba(225,225,225,1);">Pdcst 08 – Mp3</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_home_html_row9 row" >
+<div class="post_column col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column90">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="line-height:4.94em;"><span style="font-family:'PT Serif','Arial Black';font-weight:700;font-size:3.429em;color:rgba(0,0,0,1);">Our Starry Residents</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_home_html_row10 row" >
+<div class="post_column col-xl-4 col-lg-4 col-md-4 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column100">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="line-height:1.8em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:790px;max-width:760px;margin:0px 0px 20px 0px;" src="~base_path~sites/default/files/inline-images/newteam2copyright760x790.jpg" alt="GFDS" /></span></span><span style="font-size:1.214em;color:rgba(149,149,149,1);">PARTY DIVA</span></p><p style="line-height:2.4em;"><span style="font-family:'Questrial','Arial';font-size:1.643em;color:rgba(0,0,0,1);">Emma Jones</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-4 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column101">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="line-height:1.8em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:790px;max-width:760px;margin:0px 0px 20px 0px;" src="~base_path~sites/default/files/inline-images/newteam1copyright760x790.jpg" alt="DX" /></span></span><span style="font-size:1.214em;color:rgba(149,149,149,1);">ALL ABOUT TECHNO</span></p><p style="margin:5px 0px 5px 0px;line-height:2.4em;color:rgba(51,51,51,1);"><span style="font-family:'Questrial','Arial';font-size:1.643em;color:rgba(0,0,0,1);">Bradley Summers</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-4 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column102">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="line-height:1.8em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:790px;max-width:760px;margin:0px 0px 20px 0px;" src="~base_path~sites/default/files/inline-images/newteam3copyright760x790.jpg" alt="CX" /></span></span><span style="font-size:1.214em;color:rgba(225,225,225,1);">MORNING MUSE</span></p><p style="line-height:2.4em;"><span style="font-family:'Questrial','Arial';font-size:1.643em;color:rgba(0,0,0,1);">Amy Wilkins</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+]]></introtext>
+    </content>
+    <content>
+      <meta_ID>tt_page2</meta_ID>
+      <page_title>About Us</page_title>
+      <alias>about-us</alias>
+      <page_name>About Us</page_name>
+      <page_header_id>about us</page_header_id>
+      <state>1</state>
+      <featured>1</featured>
+      <created>07/13/2021 00:00:00</created>
+      <created_by_alias>SuperUser</created_by_alias>
+      <page_title_visibility>false</page_title_visibility>
+      <introtext><![CDATA[<div class="ttr_about-us_html_row0 row" >
+<div class="post_column col-xl-6 col-lg-6 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_about-us_html_column00">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p /></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-6 col-lg-6 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_about-us_html_column01">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><h2 style="line-height:1.93em;"><span style="font-family:'Questrial','Arial';font-size:1.333em;color:rgba(0,0,0,1);">Our History</span></h2><p style="margin:5px 0px 20px 0px;line-height:1.69em;"><span style="font-size:1.143em;color:rgba(149,149,149,1);">Lorem ipsum dolor sit amet, test link adipiscing elit.Nullam dignissim convallis est.Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui.Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl.Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus.Maecenas ornare tortor.</span></p><p style="line-height:1.69em;"><span><a href="https://templatetoaster.com" target="_self" class="btn btn-md btn-default">READ NOW</a></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_about-us_html_row1 row" >
+<div class="post_column col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_about-us_html_column10">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="line-height:4.13em;"><span style="font-family:'Arial Black';font-size:2.857em;color:rgba(252,38,118,1);">Audio Production </span><span style="font-family:'Arial Black';font-size:2.857em;">Services</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_about-us_html_row2 row" >
+<div class="post_column col-xl-6 col-lg-6 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_about-us_html_column20">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="line-height:1.69em;"><span style="font-size:1.143em;color:rgba(52,52,52,1);">Lorem ipsum dolor sit amet, test link adipiscing elit.Nullam dignissim convallis est.Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui.Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl.Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus.Maecenas ornare tortorLorem ipsum dolor sit amet, test link adipiscing elit.Nullam </span></p><ul style="list-style-type:disc;"><li><p style="line-height:1.98em;"><span style="font-size:1.333em;color:rgba(149,149,149,1);">Shure SM7b Dynamic Mic (host mic)</span></p></li><li><p style="line-height:1.98em;"><span style="font-size:1.333em;color:rgba(149,149,149,1);">Electro-Voice RE20 Dynamic Mic (co-host/guest mic)</span></p></li><li><p style="line-height:1.98em;"><span style="font-size:1.333em;color:rgba(149,149,149,1);">2x Heil PR40 Dynamic Mics (co-host/guest mics)</span></p></li><li><p style="line-height:1.98em;"><span style="font-size:1.333em;color:rgba(149,149,149,1);">Allen &amp; Heath XB-14 2 Broadcast Mixer /dedicated telco channels</span></p></li><li><p style="line-height:1.98em;"><span style="font-size:1.333em;color:rgba(149,149,149,1);">Dedicated land line and JK Audio telephone hybrid for phone calls</span></p></li><li><p style="line-height:1.98em;"><span style="font-size:1.333em;color:rgba(149,149,149,1);">Dual Technics 1200 Turntables</span></p></li><li><p style="line-height:1.98em;"><span style="font-size:1.333em;color:rgba(149,149,149,1);">Allen &amp; Heath XONE:23 2-by-2 Channel DJ Mixer</span></p></li><li><p style="margin:5px 0px 10px 0px;line-height:1.98em;"><span style="font-size:1.333em;color:rgba(149,149,149,1);">Gemini CDM-4000 dual CD player with mixer</span></p></li></ul><p style="line-height:1.69em;"><span><a href="https://templatetoaster.com" target="_self" class="btn btn-md btn-default">EXPLORE NOW</a></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-6 col-lg-6 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_about-us_html_column21">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><br /></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+]]></introtext>
+    </content>
+    <content>
+      <meta_ID>tt_page3</meta_ID>
+      <page_title>Artist</page_title>
+      <alias>artist</alias>
+      <page_name>Artist</page_name>
+      <page_header_id>artist</page_header_id>
+      <state>1</state>
+      <featured>1</featured>
+      <created>07/13/2021 00:00:00</created>
+      <created_by_alias>SuperUser</created_by_alias>
+      <page_title_visibility>false</page_title_visibility>
+      <introtext><![CDATA[<div class="ttr_artist_html_row0 row" >
+<div class="post_column col-xl-12 col-lg-12 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_artist_html_column00">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="line-height:4.13em;"><span style="font-family:'Arial Black';font-size:2.857em;color:rgba(252,38,118,1);">Our</span><span style="font-family:'Arial Black';font-size:2.857em;"> Best Artist</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_artist_html_row1 row" >
+<div class="post_column col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_artist_html_column10">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center; display:block; line-height:2.4em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:500px;max-width:500px;margin:0px 0px 20px 0px;" src="~base_path~sites/default/files/inline-images/2500x500.jpg" alt="vhdg" /></span></span><span style="font-family:'Questrial','Arial';font-size:1.643em;color:rgba(0,0,0,1);">Kenny Bass</span></p><p style="text-align:Center; display:block; line-height:1.69em;"><span style="font-size:1.143em;color:rgba(149,149,149,1);">LONDON [IT]</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_artist_html_column11">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center; display:block; line-height:2.4em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:500px;max-width:500px;margin:0px 0px 20px 0px;" src="~base_path~sites/default/files/inline-images/3500x500.jpg" alt="ghjk" /></span></span><span style="font-family:'Questrial','Arial';font-size:1.643em;color:rgba(0,0,0,1);">Paul Richards</span></p><p style="text-align:Center; display:block; line-height:1.69em;"><span style="font-size:1.143em;color:rgba(149,149,149,1);">MIAMI [USA]</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_artist_html_column12">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center; display:block; line-height:2.4em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:500px;max-width:500px;margin:0px 0px 20px 0px;" src="~base_path~sites/default/files/inline-images/5500x500.jpg" alt="fds" /></span></span><span style="font-family:'Questrial','Arial';font-size:1.643em;color:rgba(0,0,0,1);">R. Galvanize</span></p><p style="text-align:Center; display:block; line-height:1.69em;"><span style="font-size:1.143em;color:rgba(149,149,149,1);">ROME [FR]</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_artist_html_column13">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center; display:block; line-height:2.4em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:500px;max-width:500px;margin:0px 0px 20px 0px;" src="~base_path~sites/default/files/inline-images/9500x500.jpg" alt="f" /></span></span><span style="font-family:'Questrial','Arial';font-size:1.643em;color:rgba(0,0,0,1);">J PierceR</span></p><p style="text-align:Center; display:block; line-height:1.69em;"><span style="font-size:1.143em;color:rgba(149,149,149,1);">PARIS [UK]</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_artist_html_column14">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center; display:block; line-height:2.4em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:500px;max-width:500px;margin:0px 0px 20px 0px;" src="~base_path~sites/default/files/inline-images/11500x500.jpg" alt="f" /></span></span><span style="font-family:'Questrial','Arial';font-size:1.643em;color:rgba(0,0,0,1);">Rodney Waters</span></p><p style="text-align:Center; display:block; line-height:1.69em;"><span style="font-size:1.143em;color:rgba(149,149,149,1);">IBIZA [IT]</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_artist_html_column15">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center; display:block; line-height:2.4em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:500px;max-width:500px;margin:0px 0px 20px 0px;" src="~base_path~sites/default/files/inline-images/12500x500.jpg" alt="f" /></span></span><span style="font-family:'Questrial','Arial';font-size:1.643em;color:rgba(0,0,0,1);">Kelsey Love</span></p><p style="text-align:Center; display:block; line-height:1.69em;"><span style="font-size:1.143em;color:rgba(149,149,149,1);">IBIZA [USA]</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+]]></introtext>
+    </content>
+    <content>
+      <meta_ID>tt_page4</meta_ID>
+      <page_title>Music</page_title>
+      <alias>music</alias>
+      <page_name>Music</page_name>
+      <page_header_id>music</page_header_id>
+      <state>1</state>
+      <featured>1</featured>
+      <created>07/13/2021 00:00:00</created>
+      <created_by_alias>SuperUser</created_by_alias>
+      <page_title_visibility>false</page_title_visibility>
+      <introtext><![CDATA[<div class="ttr_music_html_row0 row" >
+<div class="post_column col-xl-12 col-lg-12 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_music_html_column00">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="line-height:4.13em;"><span style="font-family:'Arial Black';font-size:2.857em;color:rgba(252,38,118,1);">Punjabiyan</span><span style="font-family:'Arial Black';font-size:2.857em;"> Da Swag</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_music_html_row1 row" >
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_music_html_column10">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center; display:block; line-height:2.4em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:510px;max-width:510px;margin:0px 0px 20px 0px;" src="~base_path~sites/default/files/inline-images/td4.png" alt="PUNJABIYAN DA SWAG" /></span></span><span style="font-family:'Questrial','Arial Black';font-size:1.643em;color:rgba(0,0,0,1);">Mind Broken</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_music_html_column11">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center; display:block; line-height:2.4em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:510px;max-width:510px;margin:0px 0px 20px 0px;" src="~base_path~sites/default/files/inline-images/td7.png" alt="PUNJABIYAN DA SWAG" /></span></span><span style="font-family:'Questrial','Arial';font-size:1.643em;color:rgba(0,0,0,1);">Yellow Wood</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_music_html_column12">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center; display:block; line-height:2.4em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:510px;max-width:510px;margin:0px 0px 20px 0px;" src="~base_path~sites/default/files/inline-images/td8.png" alt="PUNJABIYAN DA SWAG" /></span></span><span style="font-family:'Questrial','Arial';font-size:1.643em;color:rgba(0,0,0,1);">Veere Di Wedding</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_music_html_column13">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center; display:block; line-height:2.4em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:510px;max-width:510px;margin:0px 0px 20px 0px;" src="~base_path~sites/default/files/inline-images/td9.png" alt="PUNJABIYAN DA SWAG" /></span></span><span style="font-family:'Questrial','Arial';font-size:1.643em;color:rgba(0,0,0,1);">Dila Ther Ja</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_music_html_row2 row" >
+<div class="post_column col-xl-12 col-lg-12 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_music_html_column20">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="line-height:4.13em;"><span style="font-family:'Arial Black';font-size:2.857em;color:rgba(249,231,1,1);">Retro </span><span style="font-family:'Arial Black';font-size:2.857em;">Playlists</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_music_html_row3 row" >
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_music_html_column30">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center; display:block; line-height:2.4em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:260px;max-width:260px;margin:0px 0px 20px 0px;" src="~base_path~sites/default/files/inline-images/rt1.png" alt="RETRO PLAYLISTS" /></span></span><span style="font-family:'Questrial','Arial';font-size:1.643em;color:rgba(0,0,0,1);">Hotspot Space</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_music_html_column31">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center; display:block; line-height:2.4em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:510px;max-width:510px;margin:0px 0px 20px 0px;" src="~base_path~sites/default/files/inline-images/rt2.png" alt="RETRO PLAYLISTS" /></span></span><span style="font-family:'Questrial','Arial';font-size:1.643em;color:rgba(0,0,0,1);">Faking Freedom</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_music_html_column32">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center; display:block; line-height:2.4em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:510px;max-width:510px;margin:0px 0px 20px 0px;" src="~base_path~sites/default/files/inline-images/jz3.png" alt="RETRO PLAYLISTS" /></span></span><span style="font-family:'Questrial','Arial';font-size:1.643em;color:rgba(0,0,0,1);">Rock will Find</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_music_html_column33">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center; display:block; line-height:2.4em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:510px;max-width:510px;margin:0px 0px 20px 0px;" src="~base_path~sites/default/files/inline-images/rt4.png" alt="RETRO PLAYLISTS" /></span></span><span style="font-family:'Questrial','Arial';font-size:1.643em;color:rgba(0,0,0,1);">Just Another Lighting</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_music_html_row4 row" >
+<div class="post_column col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_music_html_column40">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="line-height:4.13em;"><span style="font-family:'Arial Black';font-size:2.857em;color:rgba(252,38,118,1);">Jazz</span><span style="font-family:'Arial Black';font-size:2.857em;"> Playlists</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_music_html_row5 row" >
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_music_html_column50">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center; display:block; line-height:2.4em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:510px;max-width:510px;margin:0px 0px 20px 0px;" src="~base_path~sites/default/files/inline-images/jz1.png" alt="JAZZ PLAYLISTS" /></span></span><span style="font-family:'Questrial','Arial';font-size:1.643em;color:rgba(0,0,0,1);">Broken Star</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_music_html_column51">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center; display:block; line-height:2.4em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:510px;max-width:510px;margin:0px 0px 20px 0px;" src="~base_path~sites/default/files/inline-images/jz2.png" alt="JAZZ PLAYLISTS" /></span></span><span style="font-family:'Questrial','Arial';font-size:1.643em;color:rgba(0,0,0,1);">Lambiyan Si</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_music_html_column52">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center; display:block; line-height:2.4em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:510px;max-width:510px;margin:0px 0px 20px 0px;" src="~base_path~sites/default/files/inline-images/jz31.png" alt="JAZZ PLAYLISTS" /></span></span><span style="font-family:'Questrial','Arial';font-size:1.643em;color:rgba(0,0,0,1);">Reckless Lein</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_music_html_column53">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center; display:block; line-height:2.4em;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:510px;max-width:510px;margin:0px 0px 20px 0px;" src="~base_path~sites/default/files/inline-images/jz4.png" alt="JAZZ PLAYLISTS" /></span></span><span style="font-family:'Questrial','Arial';font-size:1.643em;color:rgba(0,0,0,1);">Supernatural Feast</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+]]></introtext>
+    </content>
+  </pages>
+  <sidebars />
+  <footers>
+    <footer name="footercellcolumn1">
+      <block name="footercellcolumn0" tt_blockID="footer_cell0" title="footertext1">
+        <content><![CDATA[<div class="html_content"><h4 style="line-height: normal;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;text-align:center;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:70px;max-width:92.5619834710744px;margin:0px 0px 0px 0px;" src="~base_path~sites/default/files/inline-images/g964.png" alt="PDCST 08 – mp3" /></span></span></h4></div>]]></content>
+        <widget_pages>
+          <widget_page>home</widget_page>
+          <widget_page>about-us</widget_page>
+          <widget_page>artist</widget_page>
+          <widget_page>music</widget_page>
+        </widget_pages>
+      </block>
+    </footer>
+  </footers>
+  <Shapes>
+    <headershapes>
+      <header name="headershape10">
+        <block name="headershape10" tt_blockID="header_cell10" title="header_block10">
+          <content><![CDATA[<div class="html_content"><p style="line-height:4.13em;"><span style="font-family:'Questrial','Arial';font-size:2.857em;color:rgba(0,0,0,1);">ABOUT US</span></p></div>]]></content>
+          <widget_pages>
+            <widget_page>about-us</widget_page>
+          </widget_pages>
+        </block>
+      </header>
+      <header name="headershape20">
+        <block name="headershape20" tt_blockID="header_cell20" title="header_block20">
+          <content><![CDATA[<div class="html_content"><p style="line-height:4.13em;"><span style="font-family:'Questrial','Arial';font-size:2.857em;color:rgba(0,0,0,1);">Our Artist</span></p></div>]]></content>
+          <widget_pages>
+            <widget_page>artist</widget_page>
+          </widget_pages>
+        </block>
+      </header>
+      <header name="headershape30">
+        <block name="headershape30" tt_blockID="header_cell30" title="header_block30">
+          <content><![CDATA[<div class="html_content"><p style="line-height:4.13em;"><span style="font-family:'Questrial','Arial';font-size:2.857em;">Music Channel</span></p></div>]]></content>
+          <widget_pages>
+            <widget_page>music</widget_page>
+          </widget_pages>
+        </block>
+      </header>
+    </headershapes>
+    <slideshowshapes>
+      <slideshow name="slideshowshape000">
+        <block name="slideshowshape000" tt_blockID="slideshow_cell000" title="slideshow_block000">
+          <content><![CDATA[<div class="html_content"><p style="text-align:Center; display:block; line-height:6.56em;"><span style="font-family:'PT Serif','Arial';font-weight:700;font-size:4.571em;color:rgba(255,255,255,1);">Start your podcast today!</span></p><p style="text-align:Center; display:block; line-height:1.79em;"><span style="font-family:'Open Sans','Arial';font-size:1.143em;color:rgba(255,255,255,1);">Megaphone is a fully-featured WordPress theme created to help you set up and manage your audio podcast website in no time. No coding knowledge required - choose a layout, add some content and let your voice be heard!</span></p><p style="margin:20px 0px 5px 0px;text-align:Center; display:block; line-height:1.79em;"><span><a href="https://templatetoaster.com" target="_self" class="btn btn-md btn-default">KNOW MORE</a></span></p></div>]]></content>
+          <widget_pages>
+            <widget_page>home</widget_page>
+            <widget_page>about-us</widget_page>
+            <widget_page>artist</widget_page>
+            <widget_page>music</widget_page>
+            <widget_page>blog-wp</widget_page>
+          </widget_pages>
+        </block>
+      </slideshow>
+    </slideshowshapes>
+    <menushapes />
+    <footershapes />
+  </Shapes>
+</sitecontent>

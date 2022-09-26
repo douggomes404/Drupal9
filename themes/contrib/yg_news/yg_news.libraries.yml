@@ -1,0 +1,25 @@
+global-styling:
+  css:
+    base:
+      
+      'https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css': { type: external, minified: true }
+      'https://fonts.googleapis.com/css?family=Poppins': { type: external, minified: true }
+      css/media_query.css: {}
+      css/bootstrap.css: {}
+      css/animate.css: {}
+      css/owl.carousel.css: {}
+      css/owl.theme.default.css: {}
+      css/style_1.css: {}
+  js:
+    'https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js': { type: external, minified: true }
+    js/jquery.stellar.min.js: {}
+    js/jquery.waypoints.min.js: {}    
+    js/modernizr-3.5.0.min.js: {}
+    js/owl.carousel.min.js: {}
+    js/main.js: {}
+
+
+  dependencies:
+    - core/jquery
+    - core/drupalSettings
+    - core/drupal

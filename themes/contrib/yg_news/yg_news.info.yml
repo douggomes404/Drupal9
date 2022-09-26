@@ -1,0 +1,35 @@
+name: Yg News
+base theme: bootstrap
+type: theme
+description: 'A flexible, recolorable theme with many regions and a responsive, mobile-first layout.'
+core_version_requirement: ^8 || ^9
+
+regions:
+  highlighted: Highlighted
+  top_trending: Top Trending
+  site_branding: Logo
+  primary_menu: Primary menu
+  top_banner: Top Banner
+  feature_section_1: Feature News Section Left
+  feature_section_2: Feature News Section Right
+  content: Content
+  news_section: All News Section
+  business_news: Business News
+  sidebar_first: Sidebar First
+  sidebar_second: Sidebar Second
+  trending_news: Trending News
+  footer_logo: Footer Logo
+  footer_about: Footer About
+  footer_category: Footer Category
+  footer_most_viewed_post: Most Viewed Post
+  footer_last_modified_post: Last Modified Post
+  footer_subscribe: Footer Subscribe
+  copy_right_footer_menu: Footer Menu
+
+libraries:
+  - yg_news/global-styling  
+
+# Information added by Drupal.org packaging script on 2020-08-26
+version: '2.0.0'
+project: 'yg_news'
+datestamp: 1598412530

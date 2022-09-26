@@ -1,0 +1,32 @@
+.view-id-movies {
+  &.view-display-id-page_2 {
+    .view-content {
+      &.row {
+        display: flex;
+
+        .views-row {
+          flex: 0 0 33.3333%;
+
+          .node__content {
+            .field--name-field-movie-poster {
+              float: left;
+              margin-right: 20px;
+            }
+            .content {
+              a {
+                text-decoration: none;
+                color: #333
+              }
+
+              .node__title {
+                font-size: 1.5em;
+                margin-bottom: 1em;
+                line-height: 1em;
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
